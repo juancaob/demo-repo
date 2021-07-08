@@ -1,3 +1,3 @@
 # Demo
 
-Some description of the projecto or application.
+Some description of the project or application!
